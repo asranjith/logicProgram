@@ -1,6 +1,6 @@
 package patternProgram;
 
-public class NumberProblem1 {
+public class NumberProblem1Test {
 	public static void print(int row,int column) {                    //   1  1  1  1
 		for(int j=1;j<=row;j++) {                                     //   2  2  2  2
 			                                                          //   3  3  3  3  
